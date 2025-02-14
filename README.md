@@ -1,5 +1,5 @@
 # MBD-Macro
-- Helper Macro for **MBDVidia**. Supports the _Dimensional Tolerance_ and _Geometric Tolerance_ functions. Increases productivity by streamlining repetitive tasks and allowing the user to use more shortcuts than the software supports. 
+- Helper Macro written in AutoHotKey for **MBDVidia**. Supports the _Dimensional Tolerance_ and _Geometric Tolerance_ functions. Increases productivity by streamlining repetitive tasks and allowing the user to use more shortcuts than the software supports. 
 
 ________
 ## How do I deploy it?
