@@ -1,4 +1,5 @@
-# MBD-Macro
+<h1 align="center">MBD-Macro</h1>
+
 - Helper Macro written in AutoHotKey for **MBDVidia**. Supports the _Dimensional Tolerance_ and _Geometric Tolerance_ functions in creating the PMI for 3D models. Increases productivity by streamlining repetitive tasks and allowing the user to use more shortcuts than the software supports. 
 
 ________
@@ -8,7 +9,6 @@ After downloading the repo, simply run the MBDMacro.exe file and navigate to MBD
 - In the _Customize Keyboard_ settings, map **"Create GTol"** to **G** and **"Create DTol"** to **D**
 ____
 ## Keyboard Shortcuts:
-___
 ### (D)
 - Opens up the _Dimensional Tolerance_ mode
 - Activates the respective Macro--its active status represented by the graphic appearing on the left side of the screen
